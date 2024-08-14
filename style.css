@@ -1,9 +1,10 @@
 body {
+    font-family: 'Roboto';
     display: flex;
     flex-direction: column;
 }
 
-.header {
+.hero-text-section {
     background: #1f2937;
 }
 
@@ -18,3 +19,44 @@ body {
 .footer {
     background: #1f2937;
 }
+
+/* HEADER/HERO TEXT SECTION */
+
+.header-logo-text {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.header-link-list {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+}
+
+.hero-secondary-text,
+.header-link-list {
+    font-size: 18px;
+    color: #e5e7eb;;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.sign-up-button {
+    background: #3882f6;
+    font-weight: bold;
+    color: #f9faf8;
+    padding: 4px 16px;
+    border: #f9faf8;
+    border-radius: 8px;
+}
+
+.placeholder-image {
+    width: 320px;
+    height: 180px;
+}
+
