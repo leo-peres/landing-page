@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background: #1f2937;
+}
+
+.info-section {
+
+}
+
+.quote-section {
+    background: #e5e7eb;
+}
+
+.footer {
+    background: #1f2937;
+}
