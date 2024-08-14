@@ -60,3 +60,51 @@ body {
     height: 180px;
 }
 
+/* INFO SECTION */
+
+.information-header-text {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.blank-image {
+    border: 4px;
+    border-color: #3882f6;
+}
+
+.blank-img-subtext {
+    font-size: 12px;
+    font-weight: 300;
+    color: #1f2937
+}
+
+/* QUOTE SECTION */
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.thor {
+    color: #1f2937;
+}
+
+/* CALL TO ACTION SECTION */
+
+.blue-background-box {
+    background: #3882f6;
+}
+
+.call-to-action-text {
+    color: #f9faf8;
+}
+
+/* FOOTER */
+
+.footer {
+    font-size: 12px;
+    color: #f9faf8;
+}
